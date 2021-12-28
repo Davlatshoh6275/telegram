@@ -1,0 +1,44 @@
+.user:hover {
+    background-color: cadetblue;
+    color: white;
+    cursor: pointer;
+}
+.active{
+    background-color: darkseagreen;
+    color: white;
+
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-right: 50px;
+}
+
+.search {
+    height: 40px;
+    padding: 5px 20px;
+    font-size: 25px;
+    outline: none;
+    border-radius: 8px;
+    background-color: #F1F1F1;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+}
+
+.fond {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.back {
+    background-color: #419FD9;
+}
+
+.first {
+    background: url(https://kartinkin.net/uploads/posts/2021-01/1611246395_54-p-nais-fon-63.jpg);
+}

@@ -1,0 +1,84 @@
+.text-style{
+    background-color: aqua;
+}
+
+.messeges{
+    background-color: aquamarine;
+    font-size: 18px;
+}
+
+.row .styleOdd{
+    background-color: blue;
+    min-width: 100px;
+    margin-left: 300px;
+}
+
+.row .styleOdd .messeges p{
+    color: darkred;
+}
+
+.position {
+    position: absolute;
+    bottom: 50px;  
+}
+
+.sadw {
+    color: rgb(112, 240, 110);
+}
+
+.text {
+    width: 100%;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid transparent;
+    align-items: center;
+    background: url(https://kartinkin.net/uploads/posts/2021-01/1611246395_54-p-nais-fon-63.jpg);
+    background-size: cover;
+
+}
+
+.text h1 {
+    font-size: 50px;
+    color: #000;
+}
+
+
+.textStyle {
+    border: 1px solid #F1F1F1;
+    padding: 10px 15px;
+    background-color: #8DCDE6;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    font-size: 25px;
+    color: #000;
+    position: relative;
+    left: -220px;
+    width: 300px;
+}
+
+
+
+.second {
+    background: url(https://i.ytimg.com/vi/wfZYY1HT9os/maxresdefault.jpg);
+    background-size: cover;
+}
+
+.imageStyle {
+    background-size: cover;
+    width: 100%;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.boxImage {
+    width: 60px;
+    position: relative;
+    left: 100px;
+    bottom: 75px;
+    height: 60px;
+}
+
+.imageSt {
+    width: 100px;
+    border-radius: 15px;
+}
